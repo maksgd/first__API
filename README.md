@@ -1,5 +1,5 @@
 # first_work_API
-[Результат](https://maksgd.github.io/first__API/)
+[Результат](https://maksgd.github.io/first_work_API/)
 ***
 ### Работа с REST API и форматом JSON 
 
